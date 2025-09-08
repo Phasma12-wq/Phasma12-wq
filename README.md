@@ -1,4 +1,4 @@
-### Hi, Im Bernardt Dawid van Greunen👋
+### Hi, I'm Bernardt Dawid van Greunen👋
 
 ##Software Engineering Student at Belgium Campus iTversity
 
