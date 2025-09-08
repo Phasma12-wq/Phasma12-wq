@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, Im Bernardt Dawid van Greunen👋
 
-<!--
-**Phasma12-wq/Phasma12-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Software Engineering Student at Belgium Campus iTversity
 
-Here are some ideas to get you started:
+#Skills: 
+1. C#
+2. Java
+3. SQL
+4. Node.js
+5. HTML
+6. CSS
+7. Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Tools:
+1. Git
+2. Docker
+
+#Projects
+1. Unity NLP Drone Controller: https://github.com/lemawe69/PRJ381-NLP-Unity-REPO.git
+2. StreetSync - Community Portal: https://github.com/Phasma12-wq/WPR381_Group_Assignment.git
+3. BC Wellness Web App: https://github.com/EJ-Engelbrecht/PRG381-BC-Student-Wellness.git
+
+#CV: 
+https://github.com/Phasma12-wq/CV.git
