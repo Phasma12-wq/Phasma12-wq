@@ -38,7 +38,7 @@ You can view my CV [here](https://github.com/Phasma12-wq/CV/blob/main/CV.pdf)
 Feel free to reach out for collaboration, internships, or just to connect!
 
 - 📧 Email: *dawbe.mapre@gmail.com*  
-- 🔗 LinkedIn: *[your-linkedin-profile](https://linkedin.com/in/your-profile)*  
+- 🔗 LinkedIn: *[Bernard Dawidt van Greunen](www.linkedin.com/in/bernard-dawidt-van-greunen-0b5903259)*  
 
 ---
 
