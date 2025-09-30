@@ -29,7 +29,7 @@ I'm passionate about building smart, scalable software solutions and exploring t
 
 ## 📄 CV
 
-You can view my CV [here](https://github.com/Phasma12-wq/CV.git)
+You can view my CV [here](https://github.com/Phasma12-wq/CV/blob/main/CV.pdf)
 
 ---
 
