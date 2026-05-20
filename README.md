@@ -18,6 +18,11 @@ I'm passionate about building smart, scalable software solutions and exploring t
 
 ---
 
+## 🔖 Tags for Recruiters
+#C-Sharp #Java #SQL #Javascript #HTML #CSS #Node
+
+---
+
 ## 📂 Projects
 
 | Project | Description | Link |
