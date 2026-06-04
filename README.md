@@ -5,6 +5,8 @@
 Pretoria, South Africa
 My Website:
 
+
+---
 ## 💡 About Me
 
 I'm passionate about building smart, scalable software solutions and exploring the intersection of technology and innovation. With a strong foundation in both frontend and backend development, I enjoy working on diverse projects—from web apps to intelligent drone systems.
