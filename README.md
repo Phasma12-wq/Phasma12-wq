@@ -14,8 +14,9 @@ I'm passionate about building smart, scalable software solutions and exploring t
 
 ## 🧠 Skills
 - **Languages:** Afrikaans, English
-- **Programming Languages:** C#, Java, SQL, JavaScript, HTML, CSS, Node.js
-- **Tools & Platforms:** Git, Docker
+- **Programming:** C#, Java, SQL
+- **Web Development:** JavaScript, HTML, CSS, Node.js
+- **Tools & Platforms:** Git
 - **Other:** Black Box Testing
 
 ---
