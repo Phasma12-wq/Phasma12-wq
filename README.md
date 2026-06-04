@@ -28,6 +28,14 @@ I'm passionate about building smart, scalable software solutions and exploring t
 
 ---
 
+## Education
+** Belgium Campus**  
+Bachelor of Computing — *Jan 2023 - Expected Nov 2026*  
+
+** HTS John Vorster**  
+High School Diploma — *Jan 2018 - Nov 2022*  
+
+---
 ## 📂 Projects
 
 | Project | Description | Link |
