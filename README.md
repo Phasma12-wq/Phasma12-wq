@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bernardt Dawid van Greunen
 
 
-🎓 **Bachelor of Computing Student**
+🎓 **Bachelor of Computing Student**  
 📍 Pretoria, South Africa  
 🌐 [My Website](https://yourwebsite.com)  
 
