@@ -30,7 +30,7 @@ I'm passionate about building smart, scalable software solutions and exploring t
 
 ## Education
 **Belgium Campus**  
-Bachelor of Computing — *Jan 2023 - Expected Nov 2026*  
+Bachelor of Computing — *Feb 2023 - Expected Nov 2026*  
 
 **H/S Wonderboom**  
 High School Diploma — *Jan 2018 - Nov 2022*  
