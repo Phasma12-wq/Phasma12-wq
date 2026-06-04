@@ -2,6 +2,7 @@
 
 
 🎓 **Bachelor of Computing Student**  
+✉️ ✉️ [Email Me](mailto:dawbe.mapre@gmail.com)
 📍 Pretoria, South Africa  
 🌐 [My Website](https://yourwebsite.com)  
 
