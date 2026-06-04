@@ -2,9 +2,8 @@
 
 
 🎓 **Bachelor of Computing Student**
-Pretoria, South Africa
-My Website:
-
+📍 Pretoria, South Africa  
+🌐 [My Website](https://yourwebsite.com)  
 
 ---
 ## 💡 About Me
