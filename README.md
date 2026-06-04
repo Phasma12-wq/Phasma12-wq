@@ -2,7 +2,7 @@
 
 
 🎓 **Bachelor of Computing Student**
-
+Pretoria, South Africa
 My Website:
 
 ## 💡 About Me
