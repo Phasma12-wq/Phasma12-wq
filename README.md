@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bernardt Dawid van Greunen
 
-🎓 Software Engineering Student at [Belgium Campus iTversity](https://www.belgiumcampus.ac.za/)
-
+🎓 Bacghelor of Computing Student at [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/)
+My Website: 
 ---
 
 ## 💡 About Me
