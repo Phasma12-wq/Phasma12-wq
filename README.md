@@ -43,7 +43,7 @@ High School Diploma — *Jan 2018 - Nov 2022*
 | 🧠 Unity NLP Drone Controller | Natural Language Processing interface for drone control in Unity | [View Repo](https://github.com/lemawe69/PRJ381-NLP-Unity-REPO.git) |
 | 🌍 StreetSync - Community Portal | A web-based platform to connect and empower local communities | [View Repo](https://github.com/Phasma12-wq/WPR381_Group_Assignment.git) |
 | 🧘 BC Wellness Web App | A student wellness portal for Belgium Campus | [View Repo](https://github.com/EJ-Engelbrecht/PRG381-BC-Student-Wellness.git) |
-| Project_CampusLearn | A Communication platform for Belgium Campus students| [View Repo](https://github.com/DSReaper/Project_CampusLearn.git) |
+| Project CampusLearn | A Communication platform for Belgium Campus students| [View Repo](https://github.com/DSReaper/Project_CampusLearn.git) |
 
 ---
 
