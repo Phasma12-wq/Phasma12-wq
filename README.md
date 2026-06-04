@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bernardt Dawid van Greunen
 
-🎓 Bacghelor of Computing Student at [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/)
+🎓 Bachelor of Computing Student at [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/)
 My Website: 
 ---
 
