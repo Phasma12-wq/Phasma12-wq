@@ -18,7 +18,6 @@ I'm passionate about building smart, scalable software solutions and exploring t
 - **Languages:** Afrikaans, English
 - **Programming:** C#, Java, SQL
 - **Web Development:** JavaScript, HTML, CSS, Node.js
-- **Tools & Platforms:** Git
 - **Other:** Black Box Testing
 
 ---
