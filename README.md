@@ -15,15 +15,25 @@ I'm passionate about building smart, scalable software solutions and exploring t
 ---
 
 ## 🧠 Skills
-- **Languages:** Afrikaans, English
-- **Programming:** C#, Java, SQL
-- **Web Development:** JavaScript, HTML, CSS, Node.js
+| **Language** | **Proficiency** |
+|--------|----------|
+| Afrikaans | Intermediate |
+| English | Intermediate |
+
+| **Programming Language** | **Proficiency** |
+|--------|----------|
+| C# | Intermediate |
+| Java | Beginner |
+| SQL | Intermediate |
+| HTML/CSS/JS/node.js | Intermediate |
+| Python | Beginner |
+
 - **Other:** Black Box Testing
 
 ---
 
 ## 🔖 Tags for Recruiters
-#C-Sharp #Java #SQL #Javascript #HTML #CSS #Node
+#C-Sharp #Java #SQL #Javascript #HTML #CSS #Node #Python
 
 ---
 
