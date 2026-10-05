@@ -53,7 +53,7 @@ High School Diploma — *Jan 2018 - Nov 2022*
 | 🌍 StreetSync - Community Portal | A web-based platform to connect and empower local communities | [View Repo](https://github.com/Phasma12-wq/WPR381_Group_Assignment.git) |
 | 🧘 BC Wellness Web App | A student wellness portal for Belgium Campus | [View Repo](https://github.com/EJ-Engelbrecht/PRG381-BC-Student-Wellness.git) |
 | Project CampusLearn | A Communication platform for Belgium Campus students| [View Repo](https://github.com/DSReaper/Project_CampusLearn.git) |
-| Linear Regression Calculator | Calculates and visualizes the regression line based on csv data | [View Repo]([https://github.com/DSReaper/Project_CampusLearn.git](https://github.com/Phasma12-wq/Linear-Regression-Calculator.git)) |
+| Linear Regression Calculator | Calculates and visualizes the regression line based on csv data | [View Repo]([https://github.com/DSReaper/Project_CampusLearn.git](https://github.com/Phasma12-wq/Linear-Regression-Calculator.git) |
 | TODO-App | A basic implementation of a todo app in Python | [View Repo](https://github.com/DSReaper/Project_CampusLearn.git) |
 
 ---
